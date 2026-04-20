@@ -1,0 +1,6 @@
+{ 
+    "nome": "Juan Perez", 
+    "email": "#(randomEmail)", 
+    "password": "123456", 
+    "administrador": "true"
+}
